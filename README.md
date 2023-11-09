@@ -109,7 +109,5 @@ For support, email raviamazon1101@gmail.com or contact me on Linkedin.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-
-
-https://github.com/RaviChandra001/mongodb-App/issues/1#issue-1985224743
+[![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fkubernetes-logo%2F&psig=AOvVaw1eEI4qkmCupV1edCEAnJb5&ust=1699609216356000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCvkO7PtoIDFQAAAAAdAAAAABA)
 
